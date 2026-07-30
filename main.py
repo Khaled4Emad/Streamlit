@@ -11,8 +11,9 @@ st.set_page_config(
     }
 )
 
-st.title("Welcome to my Streamlit App")
-st.header("This is the main page")
+# st.title("Welcome to my Streamlit App")
+# st.header("This is the main page")
+# st.subheader("Use the sidebar to navigate to different pages")
 
 
 # page = st.sidebar.selectbox("Select a page", ["Home", "Form"])
